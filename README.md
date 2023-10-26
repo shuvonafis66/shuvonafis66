@@ -39,6 +39,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shuvonafis66" alt="shuvonafis66" /></a> </p>
 
+![Leetcode Stats](https://leetcard.jacoblin.cool/shuvonafis66?ext=heatmap)
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shuvonafis66&show_icons=true&locale=en&layout=compact" alt="shuvonafis66" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shuvonafis66&show_icons=true&locale=en" alt="shuvonafis66" /></p>
